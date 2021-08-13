@@ -42,7 +42,7 @@ Criada com o auxílio da ferramenta ANTLR 4 (versão antlr-4.5-complete), e poss
 
 ### **Comandos e fuções: 🔧**
 
-início do código:                         programa
+[Sobre](#Sobre) início do código:                         programa
 fim do código:                            fimprog
 para a declaração de variáveis numéricas: numero
 para a declaração de palavras (strings):  texto
