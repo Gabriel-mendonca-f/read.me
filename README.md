@@ -52,8 +52,7 @@ Comandos e funções 🔧
 Exemplo de código 🖥️
 =================
 ->  
-...
-  
+ 
     programa
       numero a, b, c, d, i;
       texto t1;
@@ -79,6 +78,3 @@ Exemplo de código 🖥️
         escreva(t1);
 
     fimprog;
-
-...
-
