@@ -51,7 +51,8 @@ Comandos e funções 🔧
 |declaraçao de início da instrução da função|{
 |declaração de fim de operação da função    |}
 |para a declaração de palavras (strings)    |texto
-|para ler uma entrada a                     |leia(a)
+|para ler uma entrada a                     |leia (a)
+|para escrever um valor a na saída          |escreva (a) 
 |operação de adição de a por b              |a + b
 |operação de subtração de a por b           |a - b
 |operação de multiplicação de a por b       |a * b
