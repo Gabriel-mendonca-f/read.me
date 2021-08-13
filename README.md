@@ -39,7 +39,7 @@ Itens opcionais 💡
 - [X] Item 
 
 
-Comandos e fuções: 🔧
+Comandos e funções: 🔧
 ==================
 
 |Função                                    |Comando
