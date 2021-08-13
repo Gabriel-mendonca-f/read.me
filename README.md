@@ -5,8 +5,8 @@ Table of contents
 =================
 
 <!--ts-->
-   * [Descricao do projeto](#descricao-do-projeto)
-   * [Usage](#usage)
+   * [Descrição do projeto](#descricao-do-projeto)
+   * [Itens obrigatórios](#usage)
    * [STDIN](#stdin)
    * [Local files](#local-files)
    * [Remote files](#remote-files)
@@ -25,19 +25,12 @@ Table of contents
 
 Descricao do Projeto
 ====================
-
-Linux (manual installation)
-```bash
-$ wget https://raw.githubusercontent.com/ekalinin/github-markdown-toc/master/gh-md-toc
-$ chmod a+x gh-md-toc
-```
-Descrição do Projeto
-====================
 A linguagem ProjLang foi desenvolvida como projeto final para a disciplina Compiladores Q2-2021
 
 Criada com o auxílio da ferramenta ANTLR 4 (versão antlr-4.5-complete), e possúi destino final a linguagem Java
 
-### **Itens obrigatórios ✅**  
+Itens obrigatórios ✅
+==================
 
 - [X] Possuir 2 tipos de variáveis (pelo menos 1 deles String)
 - [X] Possuir a instrução if-else
