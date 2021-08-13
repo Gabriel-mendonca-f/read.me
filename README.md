@@ -22,22 +22,22 @@ Criada com o auxílio da ferramenta ANTLR 4 (versão antlr-4.5-complete), e poss
 
 Itens obrigatórios ✅
 ==================
-(x) 2 tipos de variáveis (String,Double)
-(x) possuir if-else
-(x) 1 estrutura de repetição (while)
-(x) verificar atribuição de variáveis (erro semântico) - compatibilidade de tipos
-(x) operações de entrada e saída (leia e escreva)
-(x) aceitar números decimais
-(x) verificar se a variável foi ou não declarada
-(x) verificar se a variável declarada foi ou não utilizada
-(x) linguagem de destino: Java
+- [X] 2 tipos de variáveis (String,Double)
+- [X] possuir if-else
+- [X] 1 estrutura de repetição (while)
+- [X] verificar atribuição de variáveis (erro semântico) - compatibilidade de tipos
+- [X] operações de entrada e saída (leia e escreva)
+- [X] aceitar números decimais
+- [X] verificar se a variável foi ou não declarada
+- [X] verificar se a variável declarada foi ou não utilizada
+- [X] linguagem de destino: Java
 
 Itens opcionais 💡
 ===============
-
-- [X] Item
-- [X] Item 
-
+- [X] compatibilidade de tipos em expressões comparativas
+- [X] repetição do-while
+- [X] indicação do tempo de compilação 
+- [X] repetição for
 
 Comandos e funções 🔧
 ==================
