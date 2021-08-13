@@ -34,7 +34,7 @@ Criada com o auxílio da ferramenta ANTLR 4 (versão antlr-4.5-complete), e poss
 - [X] Verificar se variável declarada foi ou não utilizada
 - [X] Linguagem Destino (Java)
 
-### **Itens opcionais 💡**
+#Sobre ### **Itens opcionais 💡**
 
 - [X] Item
 - [X] Item 
