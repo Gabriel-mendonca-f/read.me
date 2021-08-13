@@ -55,6 +55,7 @@ Comandos e funções 🔧
 |Função                                     |Comando
 |-------------------------------------------|--------|
 |para a declaração de palavras (strings)    |texto
+|para declarar números (Double)             |numero
 |para ler uma entrada a                     |leia (a)
 |para escrever um valor a na saída          |escreva (a) 
 
@@ -68,13 +69,14 @@ Comandos e funções 🔧
 |comparatico a maior que b                  |a > b
 
 **Funções**
-|Função                                     |Comando
-|-------------------------------------------|--------|
-|função de verificação de estado (if)       |se
-|função de verificação de estado (else)     |senao   
-|função de repetição (while)                |enquanto
-|função de executar uma função (for)        |repetir
-|realizar uma 'função a' (do)               |fazer {função a} até
+|Função                                                    |Comando
+|----------------------------------------------------------|--------|
+|função de verificação de estado (if)                      |se
+|função de verificação de estado (else)                    |senao   
+|função de repetição (while)                               |enquanto
+|função de executar uma função (for)                       |repetir
+|realizar uma 'função a' (do)                              |fazer {função a} até
+|comparativo (booleano) entre a e b, se true c, se false d |a == b ? c ; d
 
 Exemplos de código 🖥️
 =================
