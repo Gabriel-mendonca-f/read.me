@@ -1,22 +1,6 @@
 #**[COMPILADORES] - Entrega de Projeto**
 # **ProjetoCompiladores - ProjLang**
 
-Tabela de conteúdos
-=================
-<!--ts-->
-   * [Sobre](#Sobre)
-   * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Instalação](#instalacao)
-   * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-   * [Tests](#testes)
-   * [Tecnologias](#tecnologias)
-<!--te-->
-
 ## **Descrição do Projeto**
 A linguagem ProjLang foi desenvolvida como projeto final para a disciplina Compiladores Q2-2021
 
@@ -42,7 +26,7 @@ Criada com o auxílio da ferramenta ANTLR 4 (versão antlr-4.5-complete), e poss
 
 ### **Comandos e fuções: 🔧**
 
-[Sobre](#Sobre) início do código:                         programa
+início do código:                         programa
 fim do código:                            fimprog
 para a declaração de variáveis numéricas: numero
 para a declaração de palavras (strings):  texto
