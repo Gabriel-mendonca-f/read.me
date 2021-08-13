@@ -2,22 +2,36 @@
 # **ProjetoCompiladores**
 ProjLang
 
-Tabela de conteúdos
+Table of contents
 =================
+
 <!--ts-->
-   * [Descrição do projeto](#Descrição do Projeto)
-   * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Instalação](#instalacao)
-   * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
+   * [Installation](#installation)
+   * [Usage](#usage)
+      * [STDIN](#stdin)
       * [Local files](#local-files)
       * [Remote files](#remote-files)
       * [Multiple files](#multiple-files)
       * [Combo](#combo)
-   * [Tests](#testes)
-   * [Tecnologias](#tecnologias)
+      * [Auto insert and update TOC](#auto-insert-and-update-toc)
+      * [GitHub token](#github-token)
+      * [TOC generation with Github Actions](#toc-generation-with-github-actions)
+   * [Tests](#tests)
+   * [Dependency](#dependency)
+   * [Docker](#docker)
+     * [Local](#local)
+     * [Public](#public)
 <!--te-->
 
+
+Installation
+============
+
+Linux (manual installation)
+```bash
+$ wget https://raw.githubusercontent.com/ekalinin/github-markdown-toc/master/gh-md-toc
+$ chmod a+x gh-md-toc
+```
 Descrição do Projeto
 ====================
 A linguagem ProjLang foi desenvolvida como projeto final para a disciplina Compiladores Q2-2021
