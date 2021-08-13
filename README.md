@@ -7,19 +7,9 @@ Table of contents
 <!--ts-->
    * [Descrição do projeto](#descrição-do-projeto)
    * [Itens obrigatórios](#itens-obrigatórios-)
-   * [STDIN](#stdin)
-   * [Local files](#local-files)
-   * [Remote files](#remote-files)
-   * [Multiple files](#multiple-files)
-   * [Combo](#combo)
-   * [Auto insert and update TOC](#auto-insert-and-update-toc)
-   * [GitHub token](#github-token)
-   * [TOC generation with Github Actions](#toc-generation-with-github-actions)
-   * [Tests](#tests)
-   * [Dependency](#dependency)
-   * [Docker](#docker)
-   * [Local](#local)
-   * [Public](#public)
+   * [Itens opcionais](#itens-opcionais-)
+   * [Comandos e funções:](#comandos-e-funções-)
+
 <!--te-->
 
 
@@ -42,13 +32,15 @@ Itens obrigatórios ✅
 - [X] Verificar se variável declarada foi ou não utilizada
 - [X] Linguagem Destino (Java)
 
-### **Itens opcionais 💡**
+Itens opcionais 💡
+===============
 
 - [X] Item
 - [X] Item 
 
 
-### **Comandos e fuções: 🔧**
+Comandos e fuções: 🔧
+==================
 
 |Função                                    |Comando
 |------------------------------------------|--------|
