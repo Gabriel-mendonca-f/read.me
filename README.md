@@ -72,8 +72,9 @@ Comandos e funções 🔧
 |-------------------------------------------|--------|
 |função de verificação de estado (if)       |se
 |função de verificação de estado (else)     |senao   
-|função de repetição (while)                |repetir
-|função de executar uma função (do)         |fazer 
+|função de repetição (while)                |enquanto
+|função de executar uma função (for)        |repetir
+|realizar uma função(do)                    |fazer
 
 Exemplos de código 🖥️
 =================
