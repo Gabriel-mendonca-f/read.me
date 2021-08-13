@@ -23,7 +23,7 @@ Table of contents
 <!--te-->
 
 
-Descricao
+Descrição
 ============
 
 Linux (manual installation)
