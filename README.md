@@ -35,7 +35,6 @@ Integrantes do Grupo
 | Gabriel Mendonça Farias         |21060116
 | Mariana Miwa Okuma Miyashiro    |11201811238
 | William César Santos Ramalho    |11038216
-| Egidio Henrique Paixão          |11201721106
 
 Itens obrigatórios ✅
 ==================
