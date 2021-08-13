@@ -22,8 +22,8 @@ Criada com o auxílio da ferramenta ANTLR 4 (versão antlr-4.5-complete), e poss
 
 Itens obrigatórios ✅
 ==================
-- [x] 2 tipos de variáveis (String,Double)
-- [ ] possuir if-else
+- [X] 2 tipos de variáveis (String,Double)
+- [X] possuir if-else
 - [X] 1 estrutura de repetição (while)
 - [X] verificar atribuição de variáveis (erro semântico) - compatibilidade de tipos
 - [X] operações de entrada e saída (leia e escreva)
@@ -52,4 +52,33 @@ Comandos e funções 🔧
 Exemplo de código 🖥️
 =================
 ->  
+...
+  
+programa
+	numero a, b, c, d, i;
+	texto t1;
+	
+	leia(a);
+	leia(b);
+	
+	a = 1+2*3/b;
+	
+	se (a < b ) {
+		escreva (a);
+	}
+	senao {
+		escreva(b);
+	}	
+	
+	t1 = "testing";
+  	
+  	repetir (i=0; i<3; i=i+1) {
+  		escreva(a);
+  	}
+  	
+  	escreva(t1);
+	
+fimprog;
+
+...
 
