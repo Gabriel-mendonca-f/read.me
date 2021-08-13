@@ -22,7 +22,7 @@ Criada com o auxílio da ferramenta ANTLR 4 (versão antlr-4.5-complete), e poss
 
 Itens obrigatórios ✅
 ==================
-- [V] 2 tipos de variáveis (String,Double)
+- [x] 2 tipos de variáveis (String,Double)
 - [X] possuir if-else
 - [X] 1 estrutura de repetição (while)
 - [X] verificar atribuição de variáveis (erro semântico) - compatibilidade de tipos
