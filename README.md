@@ -41,7 +41,7 @@ Itens opcionais 💡
 
 Comandos e funções 🔧
 ==================
-Declarações de início e fim
+**Declarações de início e fim**
 |Função                                     |Comando
 |-------------------------------------------|--------|
 |início do código                           |programa
@@ -51,14 +51,14 @@ Declarações de início e fim
 |declaraçao de início da instrução da função|{
 |declaração de fim de operação da função    |}
 
-Entrada e saída de dados
+**Entrada e saída de dados**
 |Função                                     |Comando
 |-------------------------------------------|--------|
 |para a declaração de palavras (strings)    |texto
 |para ler uma entrada a                     |leia (a)
 |para escrever um valor a na saída          |escreva (a) 
 
-Operadores
+**Operadores**
 |Função                                     |Comando
 |-------------------------------------------|--------|
 |operação de adição de a por b              |a + b
@@ -67,7 +67,7 @@ Operadores
 |operação de divisão de a por b             |a / b
 |comparatico a maior que b                  |a > b
 
-Funções
+**Funções**
 |Função                                     |Comando
 |-------------------------------------------|--------|
 |função de verificação de estado (if)       |se
