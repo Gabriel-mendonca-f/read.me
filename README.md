@@ -54,31 +54,31 @@ Exemplo de código 🖥️
 ->  
 ...
   
-programa
-	numero a, b, c, d, i;
-	texto t1;
-	
-	leia(a);
-	leia(b);
-	
-	a = 1+2*3/b;
-	
-	se (a < b ) {
-		escreva (a);
-	}
-	senao {
-		escreva(b);
-	}	
-	
-	t1 = "testing";
-  	
-  	repetir (i=0; i<3; i=i+1) {
-  		escreva(a);
-  	}
-  	
-  	escreva(t1);
-	
-fimprog;
+    programa
+      numero a, b, c, d, i;
+      texto t1;
+
+      leia(a);
+      leia(b);
+
+      a = 1+2*3/b;
+
+      se (a < b ) {
+        escreva (a);
+      }
+      senao {
+        escreva(b);
+      }	
+
+      t1 = "testing";
+
+        repetir (i=0; i<3; i=i+1) {
+          escreva(a);
+        }
+
+        escreva(t1);
+
+    fimprog;
 
 ...
 
