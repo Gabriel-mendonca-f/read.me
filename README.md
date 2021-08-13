@@ -8,7 +8,7 @@ Table of contents
    * [Descrição do projeto](#descrição-do-projeto)
    * [Itens obrigatórios](#itens-obrigatórios-)
    * [Itens opcionais](#itens-opcionais-)
-   * [Comandos e funções:](#comandos-e-funções-)
+   * [Comandos e funções](#comandos-e-funções-)
 
 <!--te-->
 
@@ -39,7 +39,7 @@ Itens opcionais 💡
 - [X] Item 
 
 
-Comandos e funções: 🔧
+Comandos e funções 🔧
 ==================
 
 |Função                                    |Comando
