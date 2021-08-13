@@ -6,6 +6,7 @@ Conteúdos
 
 <!--ts-->
    * [Descrição do projeto](#descrição-do-projeto)
+   * [Integrantes do grupo](#integrantes-do-grupo)
    * [Itens obrigatórios](#itens-obrigatórios-)
    * [Itens opcionais](#itens-opcionais-)
    * [Comandos e funções](#comandos-e-funções-)
@@ -18,9 +19,23 @@ Descrição do Projeto 📋
 ====================
 A linguagem ProjLang foi desenvolvida como projeto final para a disciplina Compiladores Q2-2021
 
-Criada com o auxílio da ferramenta ANTLR 4 (versão antlr-4.9.2-complete), e possúi destino final a linguagem Java
+Criada com o auxílio da ferramenta ANTLR 4 (versão antlr-4.5-complete), e possúi destino final a linguagem Java
 
+Usamos como base as aulas fornecidas pelo professor Isidro disponíveis no link:
+https://www.youtube.com/watch?v=gxlxHYv-9oo&list=PLjcmNukBom6--0we1zrpoUE2GuRD-Me6W
 
+E o repositório, também fornecido pelo professor: https://github.com/professorisidro/IsiLanguageEmbriao
+
+Integrantes do Grupo
+====================
+
+|Nome                             |RA
+|---------------------------------|-----------|
+| Egidio Henrique Paixão          |11201721106
+| Gabriel Mendonça Farias         |21060116
+| Mariana Miwa Okuma Miyashiro    |11201811238
+| William César Santos Ramalho    |11038216
+| Egidio Henrique Paixão          |11201721106
 
 Itens obrigatórios ✅
 ==================
@@ -68,7 +83,7 @@ Comandos e funções 🔧
 |operação de subtração de a por b           |a - b
 |operação de multiplicação de a por b       |a * b
 |operação de divisão de a por b             |a / b
-|comparativo a maior que b                  |a > b
+|comparatico a maior que b                  |a > b
 
 **Funções**
 |Função                                                    |Comando
@@ -77,8 +92,8 @@ Comandos e funções 🔧
 |função de verificação de estado (else)                    |senao   
 |função de repetição (while)                               |enquanto
 |função de executar uma função (for)                       |repetir
-|realizar uma 'função a' ate b (do while)            ´     |fazer {função a} até (b)
-|comparativo (booleano) entre a e b, se true c, se false d |a == b ? c : d
+|realizar uma 'função a' (do)                              |fazer {função a} até
+|comparativo (booleano) entre a e b, se true c, se false d |a == b ? c ; d
 
 Exemplos de código 🖥️
 =================
