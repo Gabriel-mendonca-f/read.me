@@ -23,8 +23,8 @@ Table of contents
 <!--te-->
 
 
-Descricao
-============
+Descricao do Projeto
+====================
 
 Linux (manual installation)
 ```bash
