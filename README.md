@@ -18,7 +18,7 @@ Descrição do Projeto 📋
 ====================
 A linguagem ProjLang foi desenvolvida como projeto final para a disciplina Compiladores Q2-2021
 
-Criada com o auxílio da ferramenta ANTLR 4 (versão antlr-4.5-complete), e possúi destino final a linguagem Java
+Criada com o auxílio da ferramenta ANTLR 4 (versão antlr-4.9.2-complete), e possúi destino final a linguagem Java
 
 
 
