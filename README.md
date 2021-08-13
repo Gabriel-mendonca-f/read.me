@@ -42,18 +42,24 @@ Itens opcionais 💡
 Comandos e funções 🔧
 ==================
 
-|Função                                    |Comando
-|------------------------------------------|--------|
-|início do código:                         |programa
-|fim do código:                            |fimprog
-|para a declaração de variáveis numéricas: |numero
-|para a declaração de palavras (strings):  |texto
-|para ler uma entrada a                    |leia(a)
-|operação de adição de a por b:            |a + b
-|operação de subtração de a por b:         |a - b
-|operação de multiplicação de a por b:     |a * b
-|operação de divisão de a por b:           |a / b
-|comparatico a maior que b:                |a > b
+|Função                                     |Comando
+|-------------------------------------------|--------|
+|início do código                           |programa
+|fim do código                              |fimprog
+|para a declaração de variáveis numéricas   |numero
+|declaração de fim da linha de instrução    |;
+|declaraçao de início da instrução da função|{
+|declaração de fim de operação da função    |}
+|para a declaração de palavras (strings)    |texto
+|para ler uma entrada a                     |leia(a)
+|operação de adição de a por b              |a + b
+|operação de subtração de a por b           |a - b
+|operação de multiplicação de a por b       |a * b
+|operação de divisão de a por b             |a / b
+|comparatico a maior que b                  |a > b
+|função de verificação de estado (if)       |se
+|função de verificação de estado (else)     |senao   
+|função de repetição (while)                |repetir
 
 Exemplo de código 🖥️
 =================
