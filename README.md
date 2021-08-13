@@ -9,7 +9,7 @@ Conteúdos
    * [Itens obrigatórios](#itens-obrigatórios-)
    * [Itens opcionais](#itens-opcionais-)
    * [Comandos e funções](#comandos-e-funções-)
-   * [Exemplo de código](#exemplo-de-código-%EF%B8%8F)
+   * [Exemplos de código](#exemplos-de-código-%EF%B8%8F)
 
 <!--te-->
 
@@ -62,9 +62,72 @@ Comandos e funções 🔧
 |função de verificação de estado (else)     |senao   
 |função de repetição (while)                |repetir
 
-Exemplo de código 🖥️
+Exemplos de código 🖥️
 =================
-->  
+
+Exemplo 1
+
+    programa
+        numero a, b, c, d;
+        texto t1, t2;
+
+        leia(a);
+        leia(b);
+
+        a = 1+2*3/b;
+
+        se (a < b ) {
+          escreva (a);
+        }
+        senao {
+          escreva(b);
+        }	
+
+        c = 0;
+
+        t1 = "testing";
+
+        enquanto ( c < 5 ) {
+          escreva (c);
+          c = c + 1;
+          }
+
+          fazer {
+            escreva (c);
+            c = c - 1;
+          } ate (c > 0)
+
+          c == a ? escreva (a); : escreva (t1);
+
+          escreva(t1);
+
+      fimprog;
+
+Exemplo 2
+ 
+    programa
+      numero a, b, c, d;
+      texto t1;
+
+      leia(a);
+      leia(b);
+
+      a = 1+2*3/b;
+
+      se (a < b ) {
+        escreva (a);
+      }
+      senao {
+        escreva(b);
+      }	
+
+      t1 = "testing";
+
+        escreva(t1);
+
+    fimprog;
+
+Exemplo 3
  
     programa
       numero a, b, c, d, i;
