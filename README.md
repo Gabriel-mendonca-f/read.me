@@ -6,7 +6,7 @@ Table of contents
 
 <!--ts-->
    * [Descrição do projeto](#descricao-do-projeto)
-   * [Itens obrigatórios](#usage)
+   * [Itens obrigatórios](#itens-obrigatorios-)
    * [STDIN](#stdin)
    * [Local files](#local-files)
    * [Remote files](#remote-files)
