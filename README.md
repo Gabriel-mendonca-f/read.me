@@ -77,7 +77,7 @@ Comandos e funções 🔧
 |função de verificação de estado (else)                    |senao   
 |função de repetição (while)                               |enquanto
 |função de executar uma função (for)                       |repetir
-|realizar uma 'função a' (do)                              |fazer {função a} até
+|realizar uma 'função a' ate b (do while)            ´     |fazer {função a} até (b)
 |comparativo (booleano) entre a e b, se true c, se false d |a == b ? c : d
 
 Exemplos de código 🖥️
