@@ -9,7 +9,7 @@ Conteúdos
    * [Itens obrigatórios](#itens-obrigatórios-)
    * [Itens opcionais](#itens-opcionais-)
    * [Comandos e funções](#comandos-e-funções-)
-   * [Exemplo de código](#exemplo-de-código)
+   * [Exemplo de código](#exemplo-de-código-%EF%B8%8F)
 
 <!--te-->
 
