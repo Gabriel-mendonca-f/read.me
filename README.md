@@ -9,6 +9,7 @@ Conteúdos
    * [Itens obrigatórios](#itens-obrigatórios-)
    * [Itens opcionais](#itens-opcionais-)
    * [Comandos e funções](#comandos-e-funções-)
+   * [Exemplo de código](#exemplo-de-código)
 
 <!--te-->
 
@@ -49,5 +50,6 @@ Comandos e funções 🔧
 |para a declaração de variáveis numéricas: |numero
 |para a declaração de palavras (strings):  |texto
 
-### **Exemplo de código 🖥️**
+Exemplo de código 🖥️
+=================
 ->  
