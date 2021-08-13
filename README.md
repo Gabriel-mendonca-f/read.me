@@ -1,5 +1,5 @@
-# **[COMPILADORES] - Entrega de Projeto**
-# **ProjetoCompiladores**
+## **[COMPILADORES] - Entrega de Projeto**
+## **ProjetoCompiladores**
 ProjLang
 
 Table of contents
