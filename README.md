@@ -5,7 +5,7 @@ Table of contents
 =================
 
 <!--ts-->
-   * [Descrição do projeto](#descricao-do-projeto)
+   * [Descrição do projeto](#descrição-do-projeto)
    * [Itens obrigatórios](#itens-obrigatórios-)
    * [STDIN](#stdin)
    * [Local files](#local-files)
@@ -23,7 +23,7 @@ Table of contents
 <!--te-->
 
 
-Descricao do Projeto
+Descrição do Projeto
 ====================
 A linguagem ProjLang foi desenvolvida como projeto final para a disciplina Compiladores Q2-2021
 
