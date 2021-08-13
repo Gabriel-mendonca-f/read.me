@@ -48,6 +48,12 @@ Comandos e funções 🔧
 |fim do código:                            |fimprog
 |para a declaração de variáveis numéricas: |numero
 |para a declaração de palavras (strings):  |texto
+|para ler uma entrada a                    |leia(a)
+|operação de adição de a por b:            |a + b
+|operação de subtração de a por b:         |a - b
+|operação de multiplicação de a por b:     |a * b
+|operação de divisão de a por b:           |a / b
+|comparatico a maior que b:                |a > b
 
 Exemplo de código 🖥️
 =================
