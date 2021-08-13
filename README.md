@@ -5,7 +5,7 @@ ProjLang
 Tabela de conteúdos
 =================
 <!--ts-->
-   * [Sobre](#Sobre)
+   * [Descrição do projeto](#Descrição do Projeto)
    * [Tabela de Conteudo](#tabela-de-conteudo)
    * [Instalação](#instalacao)
    * [Como usar](#como-usar)
@@ -19,12 +19,10 @@ Tabela de conteúdos
 <!--te-->
 
 ## **Descrição do Projeto**
+===========================
 A linguagem ProjLang foi desenvolvida como projeto final para a disciplina Compiladores Q2-2021
 
 Criada com o auxílio da ferramenta ANTLR 4 (versão antlr-4.5-complete), e possúi destino final a linguagem Java
-
-Sobre
-=====
 
 ### **Itens obrigatórios ✅**  
 
