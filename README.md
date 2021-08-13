@@ -5,7 +5,7 @@ Table of contents
 =================
 
 <!--ts-->
-   * [Descrição](#descricao)
+   * [Descricao](#descricao)
    * [Usage](#usage)
    * [STDIN](#stdin)
    * [Local files](#local-files)
@@ -23,7 +23,7 @@ Table of contents
 <!--te-->
 
 
-Descrição
+Descricao
 ============
 
 Linux (manual installation)
