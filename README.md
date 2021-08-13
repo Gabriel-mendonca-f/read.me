@@ -5,7 +5,7 @@ Table of contents
 =================
 
 <!--ts-->
-   * [Descricao](#descricao)
+   * [Descricao do projeto](#descricao-do-projeto)
    * [Usage](#usage)
    * [STDIN](#stdin)
    * [Local files](#local-files)
