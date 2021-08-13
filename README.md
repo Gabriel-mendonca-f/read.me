@@ -1,4 +1,4 @@
-#**[COMPILADORES] - Entrega de Projeto**
+# **[COMPILADORES] - Entrega de Projeto**
 # **ProjetoCompiladores - ProjLang**
 
 ## **Descrição do Projeto**
@@ -18,7 +18,7 @@ Criada com o auxílio da ferramenta ANTLR 4 (versão antlr-4.5-complete), e poss
 - [X] Verificar se variável declarada foi ou não utilizada
 - [X] Linguagem Destino (Java)
 
-#Sobre ### **Itens opcionais 💡**
+### **Itens opcionais 💡**
 
 - [X] Item
 - [X] Item 
@@ -26,7 +26,12 @@ Criada com o auxílio da ferramenta ANTLR 4 (versão antlr-4.5-complete), e poss
 
 ### **Comandos e fuções: 🔧**
 
-início do código:                         programa
-fim do código:                            fimprog
-para a declaração de variáveis numéricas: numero
-para a declaração de palavras (strings):  texto
+|Função                                    |Comando
+|------------------------------------------|--------|
+|início do código:                         |programa
+|fim do código:                            |fimprog
+|para a declaração de variáveis numéricas: |numero
+|para a declaração de palavras (strings):  |texto
+
+### **Exemplo de código 🖥️**
+->  
