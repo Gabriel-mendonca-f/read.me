@@ -1,7 +1,7 @@
 # **[COMPILADORES] - Entrega de Projeto**
 ProjLang
 
-Table of contents
+Conteúdos
 =================
 
 <!--ts-->
@@ -13,7 +13,7 @@ Table of contents
 <!--te-->
 
 
-Descrição do Projeto
+Descrição do Projeto 📋
 ====================
 A linguagem ProjLang foi desenvolvida como projeto final para a disciplina Compiladores Q2-2021
 
