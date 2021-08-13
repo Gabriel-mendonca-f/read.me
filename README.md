@@ -1,5 +1,5 @@
 # **[COMPILADORES] - Entrega de Projeto**
-##ProjLang
+ProjLang
 
 Table of contents
 =================
