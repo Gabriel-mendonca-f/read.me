@@ -22,16 +22,15 @@ Criada com o auxílio da ferramenta ANTLR 4 (versão antlr-4.5-complete), e poss
 
 Itens obrigatórios ✅
 ==================
-
-- [X] Possuir 2 tipos de variáveis (pelo menos 1 deles String)
-- [X] Possuir a instrução if-else
-- [X] Pelo menos 1 estrutura de repetição
-- [X] Verificar atribuição de variáveis (erro semântico) - compatibilidade de tipos
-- [X] Possui operações de Entrada e Saída
-- [X] Aceitar números decimais
-- [X] Verificar se variável foi ou não declarada
-- [X] Verificar se variável declarada foi ou não utilizada
-- [X] Linguagem Destino (Java)
+(x) 2 tipos de variáveis (String,Double)
+(x) possuir if-else
+(x) 1 estrutura de repetição (while)
+(x) verificar atribuição de variáveis (erro semântico) - compatibilidade de tipos
+(x) operações de entrada e saída (leia e escreva)
+(x) aceitar números decimais
+(x) verificar se a variável foi ou não declarada
+(x) verificar se a variável declarada foi ou não utilizada
+(x) linguagem de destino: Java
 
 Itens opcionais 💡
 ===============
