@@ -50,7 +50,7 @@ Comandos e funções 🔧
 |para a declaração de variáveis numéricas: |numero
 |para a declaração de palavras (strings):  |texto
 
-Exemplo de código
+Exemplo de código 🖥️
 =================
 ->  
 
