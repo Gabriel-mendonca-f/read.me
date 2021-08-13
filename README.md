@@ -1,12 +1,11 @@
-## **[COMPILADORES] - Entrega de Projeto**
-## **ProjetoCompiladores**
-ProjLang
+# **[COMPILADORES] - Entrega de Projeto**
+##ProjLang
 
 Table of contents
 =================
 
 <!--ts-->
-   * [Installation](#installation)
+   * [Descricao](#descricao)
    * [Usage](#usage)
    * [STDIN](#stdin)
    * [Local files](#local-files)
@@ -24,7 +23,7 @@ Table of contents
 <!--te-->
 
 
-Installation
+Descricao
 ============
 
 Linux (manual installation)
