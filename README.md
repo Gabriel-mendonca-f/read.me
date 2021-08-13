@@ -1,8 +1,6 @@
 # **[COMPILADORES] Q3-2021**
-# *Entrega de Projeto*
-## --ProjLang--
-#
-#
+# *Entrega de Projeto --ProjLang--*
+
 Conteúdos
 =================
 
