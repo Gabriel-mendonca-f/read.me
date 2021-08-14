@@ -57,6 +57,7 @@ Itens opcionais 💡
 - [x] repetição for
 - [x] identação do código gerado
 - [x] ignorar comentários
+- [x] rodar arquivo passado como argumento
 
 
 Comandos e funções 🔧
