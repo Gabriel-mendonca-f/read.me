@@ -40,23 +40,24 @@ Itens obrigatórios ✅
 ==================
 - [x] 2 tipos de variáveis (Double)--fizemos string
 - [x] possuir if-else
+- [x] 1 estrutura de repetição (while)
+- [x] verificar atribuição de variáveis (erro semântico) - compatibilidade de tipos
 - [x] operações de entrada e saída (leia e escreva)
 - [x] aceitar números decimais
 - [x] verificar se a variável foi ou não declarada
+- [x] verificar se a variável declarada foi ou não utilizada (produz warnings)
 - [x] linguagem de destino: Java
 
 Itens opcionais 💡
 ===============
 - [x] String
-- [x] 1 estrutura de repetição (while)
-- [x] verificar atribuição de variáveis (erro semântico) - compatibilidade de tipos
 - [x] compatibilidade de tipos em expressões comparativas
 - [x] repetição do-while
-- [x] verificar se a variável declarada foi ou não utilizada (produz warnings)
 - [x] indicação do tempo de compilação 
 - [x] repetição for
 - [x] identação do código gerado
 - [x] ignorar comentários
+
 
 Comandos e funções 🔧
 ==================
