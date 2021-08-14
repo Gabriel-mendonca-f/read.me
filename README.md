@@ -58,7 +58,7 @@ Itens opcionais 💡
 - [x] identação do código gerado
 - [x] ignorar comentários
 - [x] rodar arquivo passado como argumento
-
+- [x] organização de código por edentação
 
 Comandos e funções 🔧
 ==================
