@@ -87,7 +87,13 @@ Comandos e funções 🔧
 |operação de subtração de a por b           |a - b
 |operação de multiplicação de a por b       |a * b
 |operação de divisão de a por b             |a / b
-|comparatico a maior que b                  |a > b
+|comparativo a maior que b                  |a > b
+|comparativo a menor que b                  |a < b
+|comparativo a maior ou igual que b         |a >= b
+|comparativo a menor ou igual que b         |a <= b
+|comparativo a igual a b                    |a == b
+|comparativo a diferente de b               |a != b     
+ 
 
 **Funções**
 |Função                                                    |Comando
