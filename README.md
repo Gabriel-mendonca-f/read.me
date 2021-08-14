@@ -38,7 +38,6 @@ Integrantes do Grupo
 
 Itens obrigatórios ✅
 ==================
-Itens Isilanguage
 - [x] 2 tipos de variáveis (Double)--fizemos string
 - [x] possuir if-else
 - [x] operações de entrada e saída (leia e escreva)
